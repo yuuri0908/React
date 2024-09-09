@@ -19,6 +19,7 @@ export default function UploadForm() {
         <Input type='email' />
         <FormHelperText>We'll never share your email.</FormHelperText>
       </FormControl>
+      <Box></Box>
     </div>
   )
 }
